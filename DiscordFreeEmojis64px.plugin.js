@@ -169,11 +169,11 @@ function Stop() {
 }
 
 return function() { return {
-    getName: () => "DiscordFreeEmojis",
-    getShortName: () => "FreeEmojis",
+    getName: () => "SocialFreeEmoters",
+    getShortName: () => "FreeEmotes",
     getDescription: () => "Link emojis if you don't have nitro! Type them out or use the emoji picker! [64px]",
-    getVersion: () => "1.3",
-    getAuthor: () => "An0",
+    getVersion: () => "404",
+    getAuthor: () => "Social404",
 
     start: Start,
     stop: Stop
